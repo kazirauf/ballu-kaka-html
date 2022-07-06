@@ -1,0 +1,40 @@
+body{
+     font-family: 'Poppins', sans-serif;
+
+
+
+}
+h1{
+    font-size: 50px ;
+     color:darkcyan;
+
+}
+.king{
+       color:darkcyan;
+
+}
+section{
+        display: flex;
+
+}
+.krt{
+     width: 50% ;
+     padding-left: 5%;
+     align-self: start;
+}    
+
+.krt img{
+        width: 65%; 
+
+}
+.kre{
+      text-decoration: none;
+background-image:linear-gradient(darkseagreen,darkorange);
+      padding: 10px 40px;
+      color: bisque;
+      font-weight: 700;
+}
+.kkr{
+     background-image: url(img/kaka.jpg) ;
+
+}      

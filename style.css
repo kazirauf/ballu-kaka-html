@@ -1,5 +1,6 @@
 body{
      font-family: 'Poppins', sans-serif;
+     margin: 0px;
 
 
 
@@ -37,4 +38,31 @@ background-image:linear-gradient(darkseagreen,darkorange);
 .kkr{
      background-image: url(img/kaka.jpg) ;
 
-}      
+}
+.kaka{
+     text-decoration: none;
+      background-image: url(img/lalalila.jpg);
+      padding: 10px 40px ;
+      font-weight: 700px;
+      padding-left: 2%;
+}
+.maldiv{
+         color:red ;
+
+}
+.kanu{
+       padding-left:100px ;
+        
+}
+.fahim{
+       text-decoration: none;
+       background-image: linear-gradient(darkseagreen,darkorange);
+       padding: 10px 40px;
+       color: bisque;
+       font-weight: 700; 
+
+}    
+
+
+
+    
